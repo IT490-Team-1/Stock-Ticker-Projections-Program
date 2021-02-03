@@ -14,31 +14,39 @@
       
       <div class="tab-content">
         <div id="signup">   
-          <h1>Sign Up for Free</h1>
+          <h1>Stock Ticker Projections</h1>
           
           <form action="/" method="post">
           
           <div class="top-row">
             <div class="field-wrap">
               <label>
-                First Name<span class="req">*</span>
+                Full Legal Name<span class="req">*</span>
               </label>
               <input type="text" required autocomplete="off" />
             </div>
         
             <div class="field-wrap">
               <label>
-                Last Name<span class="req">*</span>
+                Stock Ticker<span class="req">*</span>
               </label>
               <input type="text"required autocomplete="off"/>
             </div>
           </div>
+            
+          <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+            <div id="myDropdown" class="dropdown-content">
+              <a href="#">SVM</a>
+              <a href="#">Linear Regression</a>
+            </div>
+         </div>
 
           <div class="field-wrap">
             <label>
-              Email Address<span class="req">*</span>
+              Payment<span class="req">*</span>
             </label>
-            <input type="email"required autocomplete="off"/>
+            <input type="text"required autocomplete="off"/>
           </div>
           
           <div class="field-wrap">
