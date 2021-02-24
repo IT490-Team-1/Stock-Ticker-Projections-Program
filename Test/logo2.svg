@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1187" height="147" viewBox="0 0 1187 147">
+  <defs>
+    <clipPath id="clip-SPRK_default_preset_name_custom_1">
+      <rect width="1187" height="147"/>
+    </clipPath>
+  </defs>
+  <g id="SPRK_default_preset_name_custom_1" data-name="SPRK_default_preset_name_custom – 1" clip-path="url(#clip-SPRK_default_preset_name_custom_1)">
+    <rect width="1187" height="147" fill="#fff"/>
+    <text id="Stock_Projection_SAAS" data-name="Stock Projection SAAS" transform="translate(135 116)" font-size="95" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Stock Projection SAAS</tspan></text>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="25" height="50" rx="3" transform="translate(15 80)" fill="#fe7518"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="25" height="75" rx="3" transform="translate(52 55)" fill="#fe7518"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="25" height="100" rx="3" transform="translate(89 30)" fill="#fe7518"/>
+  </g>
+</svg>
